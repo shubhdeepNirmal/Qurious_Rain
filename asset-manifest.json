@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.987e6e3c.css",
-    "main.js": "/static/js/main.d082443e.js",
-    "index.html": "/index.html",
-    "main.987e6e3c.css.map": "/static/css/main.987e6e3c.css.map",
-    "main.d082443e.js.map": "/static/js/main.d082443e.js.map"
+    "main.css": "/Qurious_Rain/static/css/main.987e6e3c.css",
+    "main.js": "/Qurious_Rain/static/js/main.d082443e.js",
+    "index.html": "/Qurious_Rain/index.html",
+    "main.987e6e3c.css.map": "/Qurious_Rain/static/css/main.987e6e3c.css.map",
+    "main.d082443e.js.map": "/Qurious_Rain/static/js/main.d082443e.js.map"
   },
   "entrypoints": [
     "static/css/main.987e6e3c.css",
